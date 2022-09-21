@@ -23,7 +23,7 @@ We will use a Tableau story to present our findings.
 
 A tableau is a series of interconnected visualisations that convey information. It is beneficial to use narratives to tell a data story, provide context, illustrate how decisions relate to outcomes, or simply make a compelling argument.
 
-The work available on Tableau Public - [visit here]() or 
+The work available on Tableau Public - [visit here](https://public.tableau.com/views/latest3_0/intro?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) or 
 
 downlaod it from the [Tableau directory](https://github.com/soonkienyuan/Mobile-app-usgae-analytics-within-my-group/tree/main/Tableau)
 
