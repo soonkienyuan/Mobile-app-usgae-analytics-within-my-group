@@ -15,7 +15,18 @@ MY team- Muhsin, Akram, Syaza and Soon will contributes the data.
 For more detail, please visit the dataset directory - [click here](https://github.com/soonkienyuan/Mobile-app-usgae-analytics-within-my-group/tree/main/dataset) 
 
 
-## 
+## Data analysis and presentation
+
+Using tableau, we will perform data analysis, create visualisations, and extract meaningful information from the visualisations.
+
+We will use a Tableau story to present our findings.
+
+A tableau is a series of interconnected visualisations that convey information. It is beneficial to use narratives to tell a data story, provide context, illustrate how decisions relate to outcomes, or simply make a compelling argument.
+
+The work available on Tableau Public - [visit here]() or 
+
+downlaod it from the [Tableau directory](https://github.com/soonkienyuan/Mobile-app-usgae-analytics-within-my-group/tree/main/Tableau)
+
 
 
 ## Future work
